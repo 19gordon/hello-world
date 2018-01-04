@@ -1,2 +1,3 @@
 # hello-world
-first repo
+
+Hi! I'm Grace and I created this repo!
